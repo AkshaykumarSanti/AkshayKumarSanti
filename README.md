@@ -6,11 +6,11 @@ A passionate Computer Science Engineering (CSE) student and aspiring Python Web 
 
 📧 Email: santiakshay248@gmail.com
 
-📞 Phone: 9359101137
+📞 Phone: +91 9359101137
 
 🌐 Connect with me:
 
-💼 LinkedIn Profile: https://www.linkedin.com/in/akshaykumar-santi/
+💼 LinkedIn Profile:   https://www.linkedin.com/in/akshaykumar-santi/
 
 🛠️ Languages and Tools:
 
