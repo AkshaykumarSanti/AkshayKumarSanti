@@ -18,7 +18,7 @@
 # 👨‍💻 About Me
 
 🎓 Final-Year Computer Science Engineering (CSE) Student  
-📈 CGPA: **8.98**  
+📈 CGPA: **9.03**  
 🧠 Strong interest in:
 - Python Development
 - Backend Engineering
