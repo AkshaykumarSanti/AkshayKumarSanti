@@ -1,45 +1,99 @@
-Hi 👋, I'm Akshaykumar Santi
+# Hi 👋, I'm Akshaykumar Santi
 
-A passionate Computer Science Engineering (CSE) student and aspiring Python Web Developer from India.
+## 🚀 Aspiring Python Web Developer | CSE Student from India 🇮🇳
 
-📫 How to reach me:
+💡 Passionate about building real-world software solutions using Python, Web Development, and Object-Oriented Programming.  
+🎯 Focused on Backend Development, Problem Solving, and AI-driven applications.
 
-📧 Email: santiakshay248@gmail.com
+---
 
-📞 Phone: +91 9359101137
+# 🌐 Connect With Me
 
-🌐 Connect with me:
+📧 **Email:** santiakshay248@gmail.com  
+📞 **Phone:** +91 9359101137  
+💼 **LinkedIn:** www.linkedin.com/in/akshaykumar-santi/
 
-💼 LinkedIn Profile:   https://www.linkedin.com/in/akshaykumar-santi/
+---
 
-🛠️ Languages and Tools:
+# 👨‍💻 About Me
 
-Programming: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/>
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/>
+🎓 Final-Year Computer Science Engineering (CSE) Student  
+📈 CGPA: **8.98**  
+🧠 Strong interest in:
+- Python Development
+- Backend Engineering
+- Object-Oriented Programming
+- AI & Machine Learning
+- Database Management
 
+⚡ I enjoy solving problems, building scalable applications, and continuously learning modern technologies to become a versatile software engineer.
 
+🚀 Currently focused on:
+- Building real-world Python projects
+- Strengthening DSA & SQL
+- Improving Backend Development skills
+- Creating resume-worthy projects
 
+---
 
-Databases:                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/>
+# 🛠️ Languages & Tools
 
+## 💻 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+</p>
 
-Web Technologies: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/>
+---
 
+## 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
 
-Other:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="20"/>
+---
 
+## 🌐 Web Technologies
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</p>
 
-👨‍💻 About Me:
+---
 
-I'm a final-year Computer Science Engineering (CSE) student with a CGPA of 8.98. I’m a passionate problem-solver and fast learner who enjoys building solutions that blend technology, logic, and real-world impact.
+## ⚙️ Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/>
+</p>
 
-My technical foundation includes Python and SQL, along with strong web development skills using HTML, CSS. I enjoy working on projects related to AI, Machine Learning, and Data-driven applications, and I continuously strive to improve my coding and analytical skills.
+---
 
-I’m motivated to apply my academic knowledge and hands-on project experience to internships, entry-level roles, and impactful software projects, while growing as a versatile software engineer 🚀
+# 📌 Current Goals
+
+✅ Build strong backend projects  
+✅ Master Python & SQL  
+✅ Learn scalable software design  
+✅ Contribute to open-source projects  
+✅ Crack top software engineering opportunities
+
+---
+
+# 📊 GitHub Journey
+
+🌱 Learning continuously  
+🚀 Building practical projects  
+💻 Improving coding skills daily
+
+---
+
+# ⭐ Quote I Follow
+
+> "Consistency beats intensity."
+
+---
+
+## 🔥 Thanks for visiting my profile!
+⭐ Explore my repositories and connect with me 🚀
