@@ -66,8 +66,9 @@ Recently graduated in Computer Science Engineering, focused on building real-wor
 ✅ Building real-world Python projects  
 ✅ Improving DSA & SQL skills  
 ✅ Strengthening backend development  
+✅ Learning Django for web application development  
 ✅ Creating industry-level applications  
-✅ Exploring AI-driven solutions  
+✅ Exploring AI-driven solutions   
 
 ---
 
