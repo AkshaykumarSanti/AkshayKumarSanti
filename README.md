@@ -1,6 +1,6 @@
 # Hi 👋 I'm Akshaykumar Santi
 
-## 🚀 Computer Science Engineering Student | Python Developer | Backend Enthusiast 🇮🇳
+## 🚀 Computer Science Engineering Student | Python Developer 
 
 I build practical software solutions using **Python, OOP, SQL, and Web Technologies**.
 
