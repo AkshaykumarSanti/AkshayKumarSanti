@@ -55,7 +55,7 @@ Recently graduated in Computer Science Engineering, focused on building real-wor
 ### Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="35" style="filter: invert(1);"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="35" style="filter: invert(1);"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
 </p>
 
