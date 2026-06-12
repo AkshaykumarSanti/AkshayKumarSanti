@@ -1,99 +1,109 @@
-# Hi 👋, I'm Akshaykumar Santi
+# Hi 👋 I'm Akshaykumar Santi
 
-## 🚀 Aspiring Python Web Developer | CSE Student from India 🇮🇳
+## 🚀 Computer Science Engineering Student | Python Developer | Backend Enthusiast 🇮🇳
 
-💡 Passionate about building real-world software solutions using Python, Web Development, and Object-Oriented Programming.  
-🎯 Focused on Backend Development, Problem Solving, and AI-driven applications.
+I build practical software solutions using **Python, OOP, SQL, and Web Technologies**.
 
----
-
-# 🌐 Connect With Me
-
-📧 **Email:** santiakshay248@gmail.com  
-📞 **Phone:** +91 9359101137  
-💼 **LinkedIn:** www.linkedin.com/in/akshaykumar-santi/
+Currently focused on developing real-world applications, improving problem-solving skills, and exploring AI-driven solutions.
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 Final-Year Computer Science Engineering (CSE) Student  
-📈 CGPA: **9.03**  
-🧠 Strong interest in:
+🎓 Final Year Computer Science Engineering Student  
+📊 CGPA: **9.03**
+
+💡 Interested in:
 - Python Development
-- Backend Engineering
+- Backend Development
 - Object-Oriented Programming
+- Database Systems
 - AI & Machine Learning
-- Database Management
+- Software Engineering Practices
 
-⚡ I enjoy solving problems, building scalable applications, and continuously learning modern technologies to become a versatile software engineer.
-
-🚀 Currently focused on:
-- Building real-world Python projects
-- Strengthening DSA & SQL
-- Improving Backend Development skills
-- Creating resume-worthy projects
+⚡ I enjoy turning ideas into working applications and continuously improving my development skills.
 
 ---
 
-# 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-## 💻 Programming Languages
+### Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+</p>
+
+
+### Web Development
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</p>
+
+
+### Database
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+
+### Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
 ---
 
-## 🗄️ Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
+## 🚀 Current Learning Goals
+
+✅ Build scalable backend projects  
+✅ Improve DSA & SQL skills  
+✅ Strengthen Python development  
+✅ Create industry-level projects  
+✅ Contribute to open source  
 
 ---
 
-## 🌐 Web Technologies
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</p>
+## 📌 Featured Projects
+
+💳 **Digital Wallet System**
+- Python OOP based wallet application
+- User authentication
+- Transactions
+- Bank linking
+- Analytics
+
+
+❤️ **Heart Disease Prediction using Retinal Images**
+- AI/ML based healthcare project
+- Deep learning image analysis
+
 
 ---
 
-## ⚙️ Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/>
-</p>
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=AkshaykumarSanti&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshaykumarSanti&theme=tokyonight"/>
 
 ---
 
-# 📌 Current Goals
+## 🌐 Connect With Me
 
-✅ Build strong backend projects  
-✅ Master Python & SQL  
-✅ Learn scalable software design  
-✅ Contribute to open-source projects  
-✅ Crack top software engineering opportunities
+📧 Email: santiakshay248@gmail.com
 
----
-
-# 📊 GitHub Journey
-
-🌱 Learning continuously  
-🚀 Building practical projects  
-💻 Improving coding skills daily
+💼 LinkedIn:
+www.linkedin.com/in/akshaykumar-santi/
 
 ---
 
-# ⭐ Quote I Follow
+## ⭐ Quote
 
 > "Consistency beats intensity."
 
 ---
 
-## 🔥 Thanks for visiting my profile!
-⭐ Explore my repositories and connect with me 🚀
+Thanks for visiting 🚀
