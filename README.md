@@ -11,7 +11,7 @@ Currently focused on developing real-world applications, improving problem-solvi
 ## 👨‍💻 About Me
 
 🎓 Final Year Computer Science Engineering Student  
-📊 CGPA: **9.03**
+📊 CGPA: **9.15**
 
 💡 Interested in:
 - Python Development
