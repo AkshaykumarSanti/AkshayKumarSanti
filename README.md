@@ -1,27 +1,31 @@
 # Hi 👋 I'm Akshaykumar Santi
 
-## 🚀 Computer Science Engineering Student | Python Developer 
+## 🚀 Computer Science Graduate | Python Developer | Software Engineer
 
-I build practical software solutions using **Python, OOP, SQL, and Web Technologies**.
+I build practical software solutions using **Python, Web Technologies, SQL, and Object-Oriented Programming**.
 
-Currently focused on developing real-world applications, improving problem-solving skills, and exploring AI-driven solutions.
+Recently graduated in Computer Science Engineering, focused on building real-world applications, improving problem-solving skills, and developing scalable software solutions.
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Final Year Computer Science Engineering Student  
+🎓 Computer Science Engineering Graduate  
 📊 CGPA: **9.15**
 
 💡 Interested in:
 - Python Development
 - Backend Development
 - Object-Oriented Programming
-- Database Systems
+- Database Management
 - AI & Machine Learning
 - Software Engineering Practices
 
-⚡ I enjoy turning ideas into working applications and continuously improving my development skills.
+🧠 Problem Solving:
+- Solved **140+ problems on LeetCode**
+- Strong foundation in DSA, SQL, and logical thinking
+
+⚡ I enjoy converting ideas into working applications and continuously improving my development skills.
 
 ---
 
@@ -30,20 +34,21 @@ Currently focused on developing real-world applications, improving problem-solvi
 ### Languages
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
 </p>
 
 
-### Web Development
+### Web Technologies
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
 
-### Database
+### Databases
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/>
 </p>
 
 
@@ -56,30 +61,31 @@ Currently focused on developing real-world applications, improving problem-solvi
 
 ---
 
-## 🚀 Current Learning Goals
+## 🚀 Current Focus
 
-✅ Build scalable backend projects  
-✅ Improve DSA & SQL skills  
-✅ Strengthen Python development  
-✅ Create industry-level projects  
-✅ Contribute to open source  
+✅ Building real-world Python projects  
+✅ Improving DSA & SQL skills  
+✅ Strengthening backend development  
+✅ Creating industry-level applications  
+✅ Exploring AI-driven solutions  
 
 ---
 
 ## 📌 Featured Projects
 
 💳 **Digital Wallet System**
-- Python OOP based wallet application
-- User authentication
-- Transactions
-- Bank linking
-- Analytics
+- Python OOP based application
+- User registration and authentication
+- Secure transactions
+- Bank account linking
+- Transaction history
+- Expense analytics
 
 
 ❤️ **Heart Disease Prediction using Retinal Images**
 - AI/ML based healthcare project
 - Deep learning image analysis
-
+- Image-based prediction system
 
 ---
 
