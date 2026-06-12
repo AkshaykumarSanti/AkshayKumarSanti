@@ -33,7 +33,7 @@ Recently graduated in Computer Science Engineering, focused on building real-wor
 
 ### Languages
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
 </p>
 
 
