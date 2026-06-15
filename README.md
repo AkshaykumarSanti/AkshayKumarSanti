@@ -2,7 +2,7 @@
 
 ## 🚀 Computer Science Graduate | Python Developer | Software Engineer
 
-I build practical software solutions using **Python, Web Technologies, SQL, and Object-Oriented Programming**.
+I build practical software solutions using **Python, Web Technologies, SQL and Object-Oriented Programming**.
 
 Recently graduated in Computer Science Engineering, focused on building real-world applications, improving problem-solving skills, and developing scalable software solutions.
 
