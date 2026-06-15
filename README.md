@@ -109,7 +109,7 @@ www.linkedin.com/in/akshaykumar-santi/
 
 ## ⭐ Quote
 
-> "Consistency beats intensity."
+> "Consistency beats intensity"
 
 ---
 
