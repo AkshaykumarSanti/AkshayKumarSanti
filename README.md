@@ -23,7 +23,7 @@ Recently graduated in Computer Science Engineering, focused on building real-wor
 
 🧠 Problem Solving:
 - Solved **140+ problems on LeetCode**
-- Strong foundation in DSA, SQL, and logical thinking
+- Strong foundation in DSA, SQL and logical thinking
 
 ⚡ I enjoy converting ideas into working applications and continuously improving my development skills.
 
