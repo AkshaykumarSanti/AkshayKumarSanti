@@ -1,44 +1,21 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Akshaykumar+Santi;Python+%26+Backend+Developer;CS+Graduate+%7C+CGPA+9.15;Building+things+that+matter.)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=AkshaykumarSanti&color=1a1b27&style=for-the-badge&label=PROFILE+VIEWS)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkshaykumarSanti&label=Profile+Views&color=70a5fd&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/AkshaykumarSanti?tab=followers">
-    <img src="https://img.shields.io/github/followers/AkshaykumarSanti?label=Followers&style=for-the-badge&color=bb9af7&labelColor=1a1b27" alt="GitHub Followers"/>
-  </a>
-</p>
+# Hey, I'm Akshaykumar Santi 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+Engineer;Problem+Solver;CSE+Graduate+2026;AI%2FML+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 Who Am I
+## 🧑‍💻 About Me
 
-CS Engineering graduate with a **9.15 CGPA** who turns ideas into working software — fast.  
-I specialize in **Python, Backend Development, and OOP**, with a growing focus on **Django and AI-driven solutions**.  
-140+ LeetCode problems solved. Always building. Always shipping.
-
-```python
-akshaykumar = {
-    "role":       "Python & Backend Developer",
-    "education":  "B.E. Computer Science Engineering | CGPA: 9.15",
-    "focus":      ["Django", "Backend Systems", "AI/ML Applications"],
-    "leetcode":   "140+ problems solved",
-    "motto":      "Consistency beats intensity."
-}
-```
-
----
-
-## 🔥 Currently Working On
-
-| Area | Status |
-|------|--------|
-| 🐍 Django Web Apps | Active |
-| 🧠 DSA & SQL Mastery | Daily Practice |
-| 🤖 AI-Integrated Projects | Exploring |
-| 🏗️ Production-Ready Python Systems | Building |
+- 🎓 BE in Computer Science Engineering @ VSM's Institute of Technology, Nipani — CGPA **9.15/10** (2026)
+- 🔨 I build full-stack web apps and AI-powered tools — not just tutorials, but real, working systems
+- 🧠 150+ LeetCode problems solved; currently mastering Django and sharpening backend architecture skills
+- 🎯 I bring academic rigor and project depth — looking to contribute to teams building real-world software
 
 ---
 
@@ -46,70 +23,73 @@ akshaykumar = {
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=70A5FD)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=70A5FD)
 
-**Web & Frameworks**
+**Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+**Backend & Frameworks**
+
+![Django](https://img.shields.io/badge/Django-1a1b27?style=for-the-badge&logo=django&logoColor=092E20)
+![REST API](https://img.shields.io/badge/REST_API-1a1b27?style=for-the-badge&logo=fastapi&logoColor=70A5FD)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-1a1b27?style=for-the-badge&logo=oracle&logoColor=F80000)
+![SQLite](https://img.shields.io/badge/SQLite-1a1b27?style=for-the-badge&logo=sqlite&logoColor=003B57)
 
-**Tools & Platforms**
+**Libraries & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Core Concepts**
-
-![OOP](https://img.shields.io/badge/OOP-BB9AF7?style=for-the-badge&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-70A5FD?style=for-the-badge&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=013243)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 💳 Digital Wallet System
-> **Problem:** Managing personal finances and peer transactions is fragmented across multiple apps. This system unifies it into one secure, programmable wallet.
+### 🗺️ Trip Planner Web Application
+> A full-stack web app for seamless trip planning — from itinerary creation to location management
 
-**What it does:**
-- 🔐 User registration with authentication & session management
-- 🏦 Bank account linking and balance management
-- 💸 Secure transaction processing with validation
-- 📊 Real-time expense analytics and transaction history
+![Python](https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=70A5FD)
+![Django](https://img.shields.io/badge/Django-1a1b27?style=flat-square&logo=django&logoColor=092E20)
+![SQLite](https://img.shields.io/badge/SQLite-1a1b27?style=flat-square&logo=sqlite&logoColor=003B57)
+![HTML](https://img.shields.io/badge/HTML-1a1b27?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1a1b27?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-**Tech:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP%20Design-BB9AF7?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- 🏗️ Built end-to-end with Django, handling routing, views, models, and templates
+- 📋 Trip creation and itinerary management with full CRUD operations
+- 📍 Location handling with data persistence via SQLite
+- 🎨 Clean, responsive web UI for a smooth user experience
 
-→ [View Project](https://github.com/AkshaykumarSanti)
+🔗 [View Project](https://github.com/AkshaykumarSanti)
 
 ---
 
-### ❤️ Heart Disease Prediction via Retinal Images
-> **Problem:** Traditional cardiac risk assessments are invasive and expensive. Retinal imaging offers a non-invasive window into cardiovascular health.
+### 🧬 Disease Prediction Using Eye Retinal Images
+> An AI-powered healthcare tool that classifies diseases from retinal images using deep learning
 
-**What it does:**
-- 🖼️ Deep learning model trained on retinal image datasets
-- 🔬 Image preprocessing and feature extraction pipeline
-- 📈 Predictive analytics for early cardiac risk detection
-- 🏥 Bridges AI/ML with real-world healthcare diagnostics
+![Python](https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=70A5FD)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1b27?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=4479A1)
+![HTML](https://img.shields.io/badge/HTML-1a1b27?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1a1b27?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-**Tech:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-70A5FD?style=flat-square)
+- 🧠 CNN-based deep learning model trained to analyze retinal images for disease classification
+- 🖼️ Web interface for uploading images and viewing real-time predictions
+- 🗄️ MySQL integration for storing patient data and prediction results
+- 🏥 Bridges AI/ML with practical healthcare applications
 
-→ [View Project](https://github.com/AkshaykumarSanti)
+🔗 [View Project](https://github.com/AkshaykumarSanti)
 
 ---
 
@@ -117,10 +97,10 @@ akshaykumar = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkshaykumarSanti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bb9af7&text_color=a9b1d6&rank_icon=github" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshaykumarSanti&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=ff9e64&currStreakLabel=bb9af7&sideLabels=a9b1d6&dates=565f89" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AkshaykumarSanti&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshaykumarSanti&theme=tokyo-night&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaykumarSanti&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaykumarSanti&layout=compact&theme=tokyo-night&hide_border=true&langs_count=8" height="165" />
 
 </div>
 
@@ -130,51 +110,30 @@ akshaykumar = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkshaykumarSanti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkshaykumarSanti&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🧩 LeetCode Stats
 
 <div align="center">
 
-[![Akshaykumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkshaykumarSanti&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bb9af7&point=ff9e64)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AkshaykumarSanti?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/AkshaykumarSanti)
 
 </div>
 
 ---
 
-## 🧩 Problem Solving
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-140%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-
-</div>
-
-> Strong foundations in **Arrays, Strings, Recursion, Dynamic Programming, SQL queries, and OOP design patterns.**
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-santiakshay248%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiakshay248@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshaykumar%20Santi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaykumar-santi/)
-[![GitHub](https://img.shields.io/badge/GitHub-AkshaykumarSanti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshaykumarSanti)
-
-</div>
-
----
-
-## 💬 Dev Philosophy
-
-<div align="center">
-
-> *"Consistency beats intensity — small daily effort compounds into systems that scale."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaykumar-santi/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiakshay248@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AkshaykumarSanti)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshaykumarSanti)
 
 </div>
 
@@ -182,6 +141,6 @@ akshaykumar = {
 
 <div align="center">
 
-**Thanks for stopping by. If you liked what you saw, drop a ⭐ on something — it keeps the momentum going. 🚀**
+*"Code is not just syntax — it's a solution to a real problem."*
 
 </div>
