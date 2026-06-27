@@ -1,0 +1,22 @@
+name: Refresh README Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
+  workflow_dispatch:        # allows manual trigger from GitHub Actions tab
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Touch README to bust CDN cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          touch README.md
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: refresh stats [skip ci]"
+          git push
