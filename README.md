@@ -10,18 +10,26 @@
 
 ## 🧑‍💻 About Me
 
+> 🟢 **Available for hire** — SDE · Backend Developer · Full Stack Developer
+
+**Computer Science graduate (2026) with a 9.15 GPA** who ships working software — not just assignments.
+I design and build full-stack web applications covering the complete cycle: database schema → Django backend → responsive frontend.
+
+```
+What I bring to a team:
+  ✅ Clean backend logic with Python & Django
+  ✅ Solid database design — MySQL, Oracle SQL, SQLite
+  ✅ Frontend that connects seamlessly to the backend
+  ✅ 150+ LeetCode problems — strong problem-solving fundamentals
+  ✅ Independent project delivery, zero hand-holding needed
+```
+
 | | |
 |---|---|
-| 🎓 **Education** | BE in Computer Science Engineering — VSM's Institute of Technology, Nipani |
-| 📊 **CGPA** | 9.15 / 10 &nbsp;·&nbsp; Class of 2026 |
-| 💼 **Focus** | Full Stack Web Development — Frontend, Backend & Databases |
-| 🔧 **Core Stack** | Python · Django · JavaScript · HTML/CSS · MySQL · SQLite |
-| 🔢 **DSA** | 150+ problems solved on LeetCode (DSA & SQL) |
-| 📍 **Status** | 🟢 Open to Work — seeking SDE / Backend / Full Stack Developer roles |
-
-**What I build:** End-to-end web applications — from structured database schemas and Django-powered backends to clean, responsive frontends. I focus on writing maintainable code, modeling data correctly, and delivering features that actually work.
-
-**Currently levelling up:** Django REST patterns · Advanced SQL · Production-ready Python project structure
+| 🎓 **Degree** | BE Computer Science Engineering — VSM's Institute of Technology, Nipani |
+| 📊 **CGPA** | **9.15 / 10** &nbsp;·&nbsp; Class of 2026 |
+| 🔧 **Stack** | Python · Django · JavaScript · HTML · CSS · MySQL · SQLite |
+| 📍 **Location** | India &nbsp;·&nbsp; Open to Remote & Relocation |
 
 ---
 
@@ -41,7 +49,6 @@
 **Backend & Frameworks**
 
 ![Django](https://img.shields.io/badge/Django-1a1b27?style=for-the-badge&logo=django&logoColor=092E20)
-![REST API](https://img.shields.io/badge/REST_API-1a1b27?style=for-the-badge&logo=fastapi&logoColor=70A5FD)
 
 **Databases**
 
@@ -96,10 +103,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkshaykumarSanti&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=AkshaykumarSanti&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&cache_seconds=86400" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshaykumarSanti&theme=tokyo-night&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaykumarSanti&layout=compact&theme=tokyo-night&hide_border=true&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaykumarSanti&layout=compact&theme=tokyo-night&hide_border=true&langs_count=8&cache_seconds=86400" height="165" />
 
 </div>
 
@@ -109,7 +116,7 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Akshaykumar_Santi?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Akshaykumar_Santi/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Akshaykumar_Santi?theme=dark&font=Fira%20Code&ext=heatmap&cache=86400)](https://leetcode.com/u/Akshaykumar_Santi/)
 
 </div>
 
