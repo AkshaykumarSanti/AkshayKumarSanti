@@ -1,10 +1,8 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AkshaykumarSanti&color=1a1b27&style=for-the-badge&label=PROFILE+VIEWS)
-
 # Hey, I'm Akshaykumar Santi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+Engineer;Problem+Solver;CSE+Graduate+2026;AI%2FML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+Engineer;Problem+Solver;CSE+Graduate+2026;Full+Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,15 +10,18 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **BE Computer Science Engineering** — VSM's Institute of Technology, Nipani | CGPA **9.15/10** | Class of 2026
+| | |
+|---|---|
+| 🎓 **Education** | BE in Computer Science Engineering — VSM's Institute of Technology, Nipani |
+| 📊 **CGPA** | 9.15 / 10 &nbsp;·&nbsp; Class of 2026 |
+| 💼 **Focus** | Full Stack Web Development — Frontend, Backend & Databases |
+| 🔧 **Core Stack** | Python · Django · JavaScript · HTML/CSS · MySQL · SQLite |
+| 🔢 **DSA** | 150+ problems solved on LeetCode (DSA & SQL) |
+| 📍 **Status** | 🟢 Open to Work — seeking SDE / Backend / Full Stack Developer roles |
 
-I write Python backends, train CNNs, and ship full-stack web apps. My stack runs from Django REST APIs and relational databases (MySQL, Oracle, SQLite) down to NumPy pipelines and TensorFlow models — and up to clean HTML/CSS/JS frontends. I don't just learn technologies in isolation; I combine them into working systems: a disease-prediction engine backed by a CNN and served via a web interface, a full CRUD trip planner built on Django and SQLite.
+**What I build:** End-to-end web applications — from structured database schemas and Django-powered backends to clean, responsive frontends. I focus on writing maintainable code, modeling data correctly, and delivering features that actually work.
 
-- 🔢 **150+ LeetCode problems** solved across DSA and SQL — consistent, deliberate practice
-- ⚙️ Strong in **OOP, backend architecture, and deep learning fundamentals**
-- 📈 Currently levelling up in **Django**, production-grade Python, and AI/ML integration patterns
-
-> 🟢 **Open to work** — actively seeking SDE / Backend / Python Developer roles. Let's build something.
+**Currently levelling up:** Django REST patterns · Advanced SQL · Production-ready Python project structure
 
 ---
 
@@ -48,10 +49,8 @@ I write Python backends, train CNNs, and ship full-stack web apps. My stack runs
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-1a1b27?style=for-the-badge&logo=oracle&logoColor=F80000)
 ![SQLite](https://img.shields.io/badge/SQLite-1a1b27?style=for-the-badge&logo=sqlite&logoColor=003B57)
 
-**Libraries & Tools**
+**Tools**
 
-![NumPy](https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=013243)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
@@ -75,26 +74,21 @@ I write Python backends, train CNNs, and ship full-stack web apps. My stack runs
 - 📍 Location handling with data persistence via SQLite
 - 🎨 Clean, responsive web UI for a smooth user experience
 
-🔗 [View Project](https://github.com/AkshaykumarSanti)
-
 ---
 
 ### 🧬 Disease Prediction Using Eye Retinal Images
-> An AI-powered healthcare tool that classifies diseases from retinal images using deep learning
+> A web-based healthcare tool that predicts disease from retinal images via a deep learning model
 
 ![Python](https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=70A5FD)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1b27?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=4479A1)
 ![HTML](https://img.shields.io/badge/HTML-1a1b27?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-1a1b27?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-- 🧠 CNN-based deep learning model trained to analyze retinal images for disease classification
-- 🖼️ Web interface for uploading images and viewing real-time predictions
-- 🗄️ MySQL integration for storing patient data and prediction results
-- 🏥 Bridges AI/ML with practical healthcare applications
-
-🔗 [View Project](https://github.com/AkshaykumarSanti)
+- 🖼️ Web interface for uploading retinal images and viewing predictions in real time
+- 🗄️ MySQL integration for storing patient records and prediction results
+- 🌐 Full frontend built with HTML, CSS, and JavaScript for clean UX
+- 🔗 Connects a trained model to a usable web product — backend to browser
 
 ---
 
