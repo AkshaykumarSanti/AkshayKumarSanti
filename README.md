@@ -120,7 +120,7 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AkshaykumarSanti?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/AkshaykumarSanti)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Akshaykumar_Santi?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Akshaykumar_Santi/)
 
 </div>
 
@@ -132,7 +132,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaykumar-santi/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiakshay248@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AkshaykumarSanti)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Akshaykumar_Santi/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshaykumarSanti)
 
 </div>
