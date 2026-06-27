@@ -12,10 +12,15 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 BE in Computer Science Engineering @ VSM's Institute of Technology, Nipani — CGPA **9.15/10** (2026)
-- 🔨 I build full-stack web apps and AI-powered tools — not just tutorials, but real, working systems
-- 🧠 150+ LeetCode problems solved; currently mastering Django and sharpening backend architecture skills
-- 🎯 I bring academic rigor and project depth — looking to contribute to teams building real-world software
+🎓 **BE Computer Science Engineering** — VSM's Institute of Technology, Nipani | CGPA **9.15/10** | Class of 2026
+
+I write Python backends, train CNNs, and ship full-stack web apps. My stack runs from Django REST APIs and relational databases (MySQL, Oracle, SQLite) down to NumPy pipelines and TensorFlow models — and up to clean HTML/CSS/JS frontends. I don't just learn technologies in isolation; I combine them into working systems: a disease-prediction engine backed by a CNN and served via a web interface, a full CRUD trip planner built on Django and SQLite.
+
+- 🔢 **150+ LeetCode problems** solved across DSA and SQL — consistent, deliberate practice
+- ⚙️ Strong in **OOP, backend architecture, and deep learning fundamentals**
+- 📈 Currently levelling up in **Django**, production-grade Python, and AI/ML integration patterns
+
+> 🟢 **Open to work** — actively seeking SDE / Backend / Python Developer roles. Let's build something.
 
 ---
 
