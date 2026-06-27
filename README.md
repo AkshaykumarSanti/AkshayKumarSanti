@@ -29,7 +29,7 @@ What I bring to a team:
 | 🎓 **Degree** | BE in Computer Science Engineering  |
 | 📊 **CGPA** | **9.15 / 10** &nbsp;·&nbsp; Class of 2026 |
 | 🔧 **Stack** | Python · Django · JavaScript · HTML · CSS · MySQL · SQLite |
-| 📍 **Location** | India &nbsp;·&nbsp; Open to Remote & Relocation |
+| 📍 **Location** | Bengaluru, Karnataka |
 
 ---
 
