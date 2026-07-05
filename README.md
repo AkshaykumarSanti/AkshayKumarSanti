@@ -32,7 +32,7 @@ I'm continuously strengthening my problem-solving skills through **150+ LeetCode
 |---|---|
 | 🎓 **Degree** | BE in Computer Science Engineering |
 | 📊 **CGPA** | **9.15 / 10** · Class of 2026 |
-| 🔧 **Stack** | Python · Django · JavaScript · HTML · CSS · MySQL · SQLite |
+| 🔧 **Stack** | Python · Django · JavaScript · HTML · CSS · SQL |
 | 📍 **Location** | Bengaluru, Karnataka |
 
 ---
