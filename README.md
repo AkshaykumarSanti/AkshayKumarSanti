@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Akshaykumar Santi 👋
+# Heyy, I'm Akshaykumar Santi 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Python+Developer;Backend+Engineer;Problem+Solver;DSA+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
 
