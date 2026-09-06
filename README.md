@@ -14,7 +14,7 @@
 
 Computer Science graduate (Class of 2026, CGPA: **9.15**) passionate about building scalable, user-centric web applications using **Python** and **Django**. I enjoy turning ideas into functional software by designing databases, developing robust backends and creating responsive user interfaces.
 
-I'm continuously strengthening my problem-solving skills through **250+ LeetCode problems** while expanding my knowledge of modern software development practices.
+I'm continuously strengthening my problem-solving skills through **350+ LeetCode problems** while expanding my knowledge of modern software development practices.
 
 ## 🎯 Current Focus
 
