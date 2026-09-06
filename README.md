@@ -47,6 +47,7 @@ I'm continuously strengthening my problem-solving skills through **350+ LeetCode
 
 ### 🎨 Frontend
 
+![React](https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=1572B6)
 
