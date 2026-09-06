@@ -31,7 +31,7 @@ Continuously strengthening my **problem-solving and Data Structures & Algorithms
 
 | | |
 |---|---|
-| 🎓 **Degree** | BE in Computer Science Engineering |
+| 🎓 **Degree** | BE in Computer Science & Engineering |
 | 📊 **CGPA** | **9.15 / 10** · Class of 2026 |
 | 🔧 **Stack** | Python · Django · REST API · SQL · React · JavaScript  · HTML5 · CSS3  |
 | 📍 **Location** | Bengaluru, Karnataka |
@@ -74,13 +74,15 @@ Continuously strengthening my **problem-solving and Data Structures & Algorithms
 
 ## 🚀 Projects
 
-### 🗺️ Trip Planner Web Application
-> A full-stack web app for seamless trip planning — from itinerary creation to location management
+### 🗺️ TravelMate – Trip Planner Web Application
 
-- 🏗️ Built end-to-end with Django, handling routing, views, models, and templates
-- 📋 Trip creation and itinerary management with full CRUD operations
-- 📍 Location handling with SQLite
-- 🎨 Responsive UI
+> A full-stack web application for seamless trip planning and management
+
+* 🏗️ Built end-to-end with **Django**, handling routing, views, models and templates
+* 📋 Implemented **trip creation and itinerary management** with full CRUD operations
+* 💾 Used **SQLite** for reliable trip and itinerary data storage
+* 🎨 Developed a **responsive user interface** for an improved user experience
+
 
 ---
 
