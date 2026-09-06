@@ -53,6 +53,7 @@ I'm continuously strengthening my problem-solving skills through **350+ LeetCode
 ### ⚙️ Backend & Framework
 
 ![Django](https://img.shields.io/badge/Django-1a1b27?style=for-the-badge&logo=django&logoColor=092E20)
+![Django ORM](https://img.shields.io/badge/Django%20ORM-1a1b27?style=for-the-badge&logo=django&logoColor=092E20)
 
 ### 🗄️ Databases
 
