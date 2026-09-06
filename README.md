@@ -66,6 +66,7 @@ I'm continuously strengthening my problem-solving skills through **350+ LeetCode
 ![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ---
 
