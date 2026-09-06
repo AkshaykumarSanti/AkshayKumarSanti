@@ -86,13 +86,15 @@ Continuously strengthening my **problem-solving and Data Structures & Algorithms
 
 ---
 
-### 🧬 Disease Prediction Using Eye Retinal Images
-> A web-based healthcare tool that predicts disease from retinal images via a deep learning model
+### 🧬 Heart Disease Prediction Using Eye Retinal Images
 
-- 🖼️ Upload retinal images and view predictions
-- 🗄️ MySQL integration
-- 🌐 Responsive frontend
-- 🔗 End-to-end web application
+> A web-based healthcare application that uses **deep learning and retinal image analysis** to predict heart disease risk
+
+* 🐍 Developed using **Python and Django** for backend and web application development
+* 🖼️ Implemented **retinal image processing and disease prediction** using **OpenCV, CNN & TensorFlow**
+* 🗄️ Integrated **MySQL** for storing user information and prediction results
+* 🌐 Built an **end-to-end responsive web application** integrating frontend, backend, database and deep learning
+
 
 ---
 
