@@ -138,9 +138,9 @@ Continuously strengthening my **problem-solving and Data Structures & Algorithms
 
 ## ⭐ Thanks for visiting my profile!
 
-I'm always excited to learn, collaborate, and build impactful software.
+I'm always excited to learn, collaborate and build impactful software.
 
-Feel free to explore my repositories, connect with me, or reach out for opportunities.
+Feel free to explore my repositories, connect with me or reach out for opportunities.
 
 **Happy Coding! 🚀**
 
