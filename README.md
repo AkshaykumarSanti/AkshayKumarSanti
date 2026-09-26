@@ -12,7 +12,7 @@
 
 > 🟢 **Available for hire** — SDE · Backend Developer · Full Stack Developer
 
-Computer Science graduate (Class of 2026, CGPA: **9.15**) passionate about building scalable, user-centric web applications using **Python** and **Django**. I enjoy turning ideas into functional software by designing databases, developing robust backends and creating responsive user interfaces.
+Computer Science graduate (Class of 2026, CGPA: **9.13**) passionate about building scalable, user-centric web applications using **Python** and **Django**. I enjoy turning ideas into functional software by designing databases, developing robust backends and creating responsive user interfaces.
 
 Continuously strengthening my **problem-solving and Data Structures & Algorithms skills** by solving **350+ LeetCode problems** and exploring modern software development practices.
 
@@ -32,7 +32,7 @@ Continuously strengthening my **problem-solving and Data Structures & Algorithms
 | | |
 |---|---|
 | 🎓 **Degree** | BE in Computer Science & Engineering |
-| 📊 **CGPA** | **9.15 / 10** · Class of 2026 |
+| 📊 **CGPA** | **9.13 / 10** · Class of 2026 |
 | 🔧 **Stack** | Python · Django · REST API · SQL · React · JavaScript  · HTML5 · CSS3  |
 | 📍 **Location** | Bengaluru, Karnataka |
 
