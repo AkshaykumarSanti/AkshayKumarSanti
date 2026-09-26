@@ -86,14 +86,14 @@ Continuously strengthening my **problem-solving and Data Structures & Algorithms
 
 ---
 
-### 🧬 Heart Disease Prediction Using Eye Retinal Images
+### 🎓 Course Management System
 
-> A web-based healthcare application that uses **deep learning and retinal image analysis** to predict heart disease risk
+> A responsive full-stack web application for managing courses, enrollments and the learning experience
 
-* 🐍 Developed using **Python and Django** for backend and web application development
-* 🖼️ Implemented **retinal image processing and disease prediction** using **OpenCV, CNN & TensorFlow**
-* 🗄️ Integrated **MySQL** for storing user information and prediction results
-* 🌐 Built an **end-to-end responsive web application** integrating frontend, backend, database and deep learning
+* ⚛️ Built using React, JavaScript, Vite, and Context API with a component-based architecture
+* 🔐 Implemented user authentication, protected routes and role-based access for secure navigation
+* 📚 Developed complete CRUD functionality for adding, updating, viewing and managing courses
+* 🗄️ Integrated JSON Server as the backend to handle course and user data with a responsive UI
 
 
 ---
